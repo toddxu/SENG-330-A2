@@ -11,4 +11,4 @@ How to Run:
 
 To View the Doxygen:
 - Open /html/index.html
-- Sample pictures are provided in the root folder as doxygenscreen*.png
+- Sample pictures are provided in the root folder as ./Doxygen Screenshots/Doxygen1*.png
